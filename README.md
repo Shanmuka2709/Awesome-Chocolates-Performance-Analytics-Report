@@ -18,7 +18,7 @@ ________________________________________
 -	**Variance (Amount and %)**
 -	**YTD Sales vs YTD Target and YTD Variance**
 -	**Monthly Sales Actuals vs Targets**
--	**Salesperson category-wise sales vs targets trend analysis**
+-	**Salesperson category-wise sales vs targets trend analysis**  
 **Filtered by Categories and Color-coded (e.g., **green = above target**, **red = below target**) for quick interpretation.**
 ________________________________________
 ## 💡Key Insights
