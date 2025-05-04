@@ -34,6 +34,15 @@ ________________________________________
     •	**Sales Target: $12,67,700**  
     •	**Variance: $93,769 (5.0%)**
 ________________________________________
+## 💡Key topics/ideas we will learn are:   
+1)	Power Query   
+2)	Data Modelling with multiple fact tables   
+3)	DAX calculations for YTD values  
+4)	Using the FILTER function in DAX   
+5)	Sparklines in the table visual  
+6)	Table formatting for executive reporting  
+7)	Smart narrative feature of Power BI  
+________________________________________
 ## 🚀 Getting Started
 1.	Download Awesome Chocolates Performance Dashboard.pbix
 2.	Open with [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
