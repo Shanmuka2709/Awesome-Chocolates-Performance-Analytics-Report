@@ -1,10 +1,10 @@
 # 📊 Awesome-Chocolates Performance Analytics Dashboard | Power BI Project
 ## 📝 Project Overview
-This project presents an interactive **Awesome-Chocolates sales performance dashboard** built in Power BI. It provides a comprehensive overview of sales performance across key business dimensions. Tailored for decision-makers and sales leaders, this dashboard delivers real-time insights into sales actuals, targets, year-to-date (YTD) progress, performance variances and sales-persons trend analysis, empowering teams to make data-driven decisions with confidence. 
+This project presents an interactive **Awesome-Chocolates sales performance dashboard** built in Power BI. It provides a comprehensive overview of sales performance across key business dimensions. Tailored for decision-makers and sales leaders, this dashboard delivers real-time insights into sales actuals, targets, year-to-date (YTD) progress, performance variances and sales-persons trend analysis, empowering teams to make data-driven decisions confidently. 
 ________________________________________
 ## 📂 Dataset Description
 The dataset includes the following fields:
--	Sales Person, Actual dates, Target dates and calendar
+-	Sales Person, Actual dates, Target dates, and calendar
 -	Sales Person, Team, Picture
 ________________________________________
 ## 🛠 Tools & Technologies Used
@@ -14,22 +14,22 @@ ________________________________________
 -	CSV / Excel data sources
 ________________________________________
 ## 📈 Dashboard Features
--	** Sales Actual and Sales Target**
--	** Variance (Amount and %)**
--	** YTD Sales vs YTD Target and YTD Variance**
--	** Monthly Sales Actuals vs Targets**
+-	**Sales Actual and Sales Target**
+-	**Variance (Amount and %)**
+-	**YTD Sales vs YTD Target and YTD Variance**
+-	**Monthly Sales Actuals vs Targets**
 -	**Salesperson category-wise sales vs targets trend analysis**
-Filtered by Categories and Color-coded (e.g., **green = above target**, **red = below target**) for quick interpretation.
+## Filtered by Categories and Color-coded (e.g., **green = above target**, **red = below target**) for quick interpretation.
 ________________________________________
 ## 💡Key Insights
 -	**Awesome Chocolate** Sales Performance vs Target across various categories
 -	Identified top-performing salespersons and sales trends 
--	Overall, 2 out of 14 months reached target from Jan 2023 to Feb 2024
-  1.** Overall Sales vs Target (Mar 2023)**
+-	Overall, 2 out of 14 months reached the target from Jan 2023 to Feb 2024
+  1. **Overall Sales vs Target (Mar 2023)**
    •	**Sales Actual: $14,71,165**
    •	**Sales Target: $13,94,200**
    •	**Variance: $76,965 (5.5%)**
-  2.** Overall Sales vs Target (Jul 2023)**
+  2. **Overall Sales vs Target (Jul 2023)**
    •	**Sales Actual: $13,31,465**
    •	**Sales Target: $12,67,700**
    •	**Variance: $93,769 (5.0%)**
